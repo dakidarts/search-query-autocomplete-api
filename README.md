@@ -17,17 +17,6 @@ The Search Query Autocomplete API provides autocomplete suggestions from popular
 - Error handling: Comprehensive error handling ensures smooth operation, with detailed error messages provided for troubleshooting and debugging.
 - Flexible usage: Whether you're building an e-commerce platform, content discovery app, or productivity tool, the Search Query Autocomplete API has you covered.
 
-### 🚀 Features
-
-- Multi-engine support: Choose from four major search engines to tailor autocomplete suggestions to your users' preferences.
-  - Google Autocomplete
-  - Bing Autocomplete
-  - DuckDuckGo Autocomplete
-  - YouTube Autocomplete
-- Simple integration: Easy-to-use endpoints supporting both GET and POST requests for seamless integration into your application.
-- Error handling: Comprehensive error handling ensures smooth operation, with detailed error messages provided for troubleshooting and debugging.
-- Flexible usage: Whether you're building an e-commerce platform, content discovery app, or productivity tool, the Search Query Autocomplete API has you covered.
-
 ### ⚡️ New Features
 
 #### /ddgs/search
