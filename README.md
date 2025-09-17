@@ -71,7 +71,7 @@ The Search Query Autocomplete API provides autocomplete suggestions from popular
 
 ## 🏁 Getting Started
 
-1. **Sign Up**: Register for an API key on our [RapidAPI listing](https://rapidapi.com/kidddevs/api/search-query-autocomplete-api) to gain access to the Search Query Autocomplete API.
+1. **Sign Up**: Register for an API key on our [RapidAPI listing](https://rapidapi.com/dakidarts-dakidarts-default/api/search-query-autocomplete-api) to gain access to the Search Query Autocomplete API.
 2. **Integrate**: Follow the step-by-step instructions to integrate the API into your application and enhance your search experience.
 
 ## ⚡️ Usage Examples
